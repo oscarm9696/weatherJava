@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_weekly">Weekly</string>
+    <string name="title_options">Options</string>
+
+    <string name="title_location">""</string>
+    <string name="value_temp">""</string>
+</resources>
